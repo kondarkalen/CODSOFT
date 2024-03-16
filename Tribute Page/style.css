@@ -1,6 +1,6 @@
 * {margin: 0;padding: 0;box-sizing: border-box;}
 *::selection{color: #000;background: #fff;}
-  body {font-family: Arial;color: black;background-color: white;overflow-x: auto;box-sizing: border-box;overflow-x: hidden;}  
+  body {font-family: Arial;color: white;background-color: black;overflow-x: auto;box-sizing: border-box;overflow-x: hidden;}  
   
   .hidden {padding: 2rem;margin: 1rem 0;text-align: center;z-index: 99;}  
   .hidden > .title {margin-bottom: 1rem;font-size: 3rem;animation: blink 7s linear;}
