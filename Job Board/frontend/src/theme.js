@@ -7,7 +7,7 @@ import { blue, grey, lightBlue } from '@mui/material/colors';
 //             main: blue[500]
 //         },
 //         secondary: {
-//             main: lightBlue[800],
+//             main: Blue[800],
 //             midNightBlue: "#003366"
 //         }
 //     }
